@@ -2,6 +2,7 @@
 
 ### A QUEM SE DESTINA / OBJETIVO
 Este projeto irá reunir algumas aplicações em python para soluções diversas de BI e Data Science. Qualquer um pode contribuir com a adição de novos programas, considerando estes escritos na linguagem específica.
+
 ----------------------------
 
 ### Super Tutorial
