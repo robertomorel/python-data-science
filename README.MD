@@ -2,6 +2,25 @@
 
 ### A QUEM SE DESTINA / OBJETIVO
 Este projeto irá reunir algumas aplicações em python para soluções diversas de BI e Data Science. Qualquer um pode contribuir com a adição de novos programas, considerando estes escritos na linguagem específica.
+----------------------------
+
+### Super Tutorial
+- Introdução;
+- Funções;
+- Operadores;
+- Correlação;
+- Numpy;
+- DataFrame;
+- Filtragem de dados;
+- Preparação de dados;
+    - Exercício com exemplos
+- Escala;
+- Missing values;
+- Dados categóricos;
+- Plotly;
+- Clusterização;
+- Regressão;
+- Regras de associação.
 
 ### Análise de preços Airbnb no Rio de Janeiro 
 - Análise de hospedaria no estilo airbnb no rio;
