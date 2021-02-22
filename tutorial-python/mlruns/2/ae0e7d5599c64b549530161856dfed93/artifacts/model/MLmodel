@@ -1,0 +1,22 @@
+artifact_path: model
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.5
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.23.2
+run_id: ae0e7d5599c64b549530161856dfed93
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"name": "age", "type": "long"}, {"name": "sex", "type": "string"}, {"name":
+    "bmi", "type": "double"}, {"name": "children", "type": "long"}, {"name": "smoker",
+    "type": "string"}, {"name": "region", "type": "string"}]'
+  outputs: null
+utc_time_created: '2021-02-22 01:15:23.666025'

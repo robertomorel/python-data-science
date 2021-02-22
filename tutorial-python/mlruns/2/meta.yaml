@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/rober/Documents/JupyterProjects/python-data-science/tutorial-python/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: insurance1

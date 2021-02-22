@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/rober/Documents/JupyterProjects/python-data-science/tutorial-python/mlruns/2/025c71009ba84d39a88298f6e25f026e/artifacts
+end_time: 1613955977371
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 025c71009ba84d39a88298f6e25f026e
+run_uuid: 025c71009ba84d39a88298f6e25f026e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1613955977200
+status: 3
+tags: []
+user_id: rober
